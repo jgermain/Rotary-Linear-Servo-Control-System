@@ -135,4 +135,12 @@ These effects would cause variation in real-world implementation compared to sim
 ## Images
 All simulation plots (cart position, wheel angle, zoomed views, and alignment graphs) are stored in the `/images` folder.
 
----
+![Simulation Schematic](images/Simulation_Schematic.png)
+
+![Cart Distance With PID](images/Xc_Output_PID_GeneralShape.png)
+
+![Wheel Timing](images/Wheel_Theta_Degrees_Output.png)
+
+![Cart Timing](images/Xc_Timing_OutPut_PID_ZoomedIn.png)
+
+![](images/Timingtogettostop.png)
